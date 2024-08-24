@@ -6,9 +6,9 @@ Visit my youtube to watch a video of TITO dancing with some jank code... https:/
 
 ![images](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_3539.jpg | width=100)
 
-<img src="https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_3539.jpg" width="300" height="280">
+<img src="https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_3539.jpg" width="400" >
 
 
 ![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_1027.jpg)
-![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0962.jpg | width=100)
-![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0951.jpg | width=100)
+![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0962.jpg)
+![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0951.jpg)
