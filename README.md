@@ -4,7 +4,9 @@ A dancing, walking robot that can not only surprise with its moves, but its sill
 Visit my youtube to watch a video of TITO dancing with some jank code... https://youtube.com/shorts/I5cqKhotyno
 
 
-![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_3539.jpg | width=100)
+![images](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_3539.jpg | width=100)
+
+
 ![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_1027.jpg | width=100)
 ![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0962.jpg | width=100)
 ![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0951.jpg | width=100)
