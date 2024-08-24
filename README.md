@@ -8,7 +8,9 @@ Visit my youtube to watch a video of TITO dancing with some jank code... https:/
 
 <img src="https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_3539.jpg" width="400" >
 
-
+## Setup the 3d printed components
 ![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_1027.jpg)
-![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0962.jpg)
 ![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0951.jpg)
+
+
+![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0962.jpg)
