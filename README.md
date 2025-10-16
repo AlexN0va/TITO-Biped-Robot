@@ -13,3 +13,4 @@ Visit my youtube to watch a video of TITO dancing with some jank code... https:/
 
 
 ![](https://github.com/AlexN0va/TITO-Biped-Robot/blob/main/Tito%20IMages/IMG_0962.jpg)
+https://www.instructables.com/Tito-Arduino-UNO-3d-Printed-Robot/
